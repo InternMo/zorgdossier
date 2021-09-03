@@ -1,0 +1,610 @@
+# Webalizer V2.23-08 Incremental Data - 09/02/2021 22:24:30
+2021 9 2 22 24 30
+1502 1141 15 164 27 12 9605857 45 12 0
+15 3 1441 2 2
+0 0 0 0 0 0
+1502 1141 9605857 15 45 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+21 10 28728 10
+1441 1109 9482295 31
+34 20 79239 2
+3 2 6445 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 0 9150 2
+0 0 0 0
+0
+0
+0
+1141
+0
+0
+0
+0
+0
+0
+0
+34
+250
+0
+1
+0
+0
+3
+0
+0
+0
+71
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/wp-includes/js/dist/vendor/wp-polyfill.min.js
+0 23 0 140747 0 0
+/wp-json/wp/v2/
+0 1 0 8057 0 0
+/wp-admin/css/install.min.css
+0 2 0 3710 0 0
+/wp-includes/js/clipboard.min.js
+0 4 0 13729 0 0
+/wp-includes/js/dist/date.min.js
+0 3 0 99759 0 0
+/wp-admin/js/dashboard.min.js
+0 3 0 9402 0 0
+/wp-admin/themes.php
+0 3 0 39378 0 0
+/wp-admin/js/common.min.js
+0 26 0 172075 0 0
+/wp-admin/update-core.php
+0 1 0 9805 0 0
+/wp-content/plugins/wordpress-seo/js/dist/react-select-1700.js
+0 1 0 27672 0 0
+/wp-content/plugins/wordpress-seo/js/dist/externals/styledComponents-1700.js
+0 1 0 14467 0 0
+/wp-admin/css/l10n.min.css
+0 5 0 3723 0 0
+/wp-admin/upload.php
+0 1 0 24140 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 11 0 44902 0 0
+/wp-content/plugins/wordpress-seo/js/dist/edit-page-1700.js
+0 6 0 4026 0 0
+/wp-includes/css/buttons.min.css
+0 5 0 7580 0 0
+/wp-content/plugins/wordfence/js/admin.ajaxWatcher.1629122067.js
+0 2 0 12082 0 0
+/wp-content/plugins/wordpress-seo/js/dist/externals/helpers-1700.js
+0 1 0 16990 0 0
+/wp-content/plugins/wordpress-seo/js/dist/dashboard-widget-1700.js
+0 1 0 2393 0 0
+/wp-content/plugins/wordpress-seo/images/link-in-icon.svg
+0 6 0 2292 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 11 0 11115 0 0
+/wp-includes/js/shortcode.min.js
+0 4 0 4776 0 0
+/wp-includes/js/wp-lists.min.js
+0 3 0 7773 0 0
+/wp-includes/js/jquery/jquery.query.js
+0 3 0 5145 0 0
+/wp-admin/load-scripts.php
+0 8 0 182300 0 0
+/wp-admin/images/spinner.gif
+0 1 0 3758 0 0
+/wp-includes/js/jquery/ui/sortable.min.js
+0 4 0 26112 0 0
+/wp-includes/images/spinner-2x.gif
+0 1 0 7593 0 0
+/wp-includes/js/dist/i18n.min.js
+0 27 0 106109 0 0
+/wp-content/plugins/wordfence/modules/login-security/css/admin-global.1629122067.css
+0 2 0 7216 0 0
+/wp-admin/plugins.php
+0 15 0 230244 0 0
+/wp-admin/js/plugin-install.min.js
+0 11 0 11825 0 0
+/wp-includes/js/underscore.min.js
+0 14 0 103852 0 0
+/wp-admin/css/forms.min.css
+0 5 0 31490 0 0
+/wp-content/plugins/wordfence/css/wf-font-awesome.1629122067.css
+0 2 0 14515 0 0
+/wp-content/plugins/disable-gutenberg/css/settings.css
+0 2 0 821 0 0
+/wp-content/plugins/wordfence/css/activity-report-widget.1629122067.css
+0 1 0 664 0 0
+/wp-includes/css/editor.min.css
+0 1 0 5981 0 0
+/wp-includes/js/jquery/ui/dialog.min.js
+0 2 0 7614 0 0
+/wp-content/plugins/wordpress-seo/css/dist/adminbar-1700.css
+0 21 0 28938 0 0
+/wp-content/plugins/disable-gutenberg/js/settings.js
+0 2 0 1776 0 0
+/wp-admin/
+0 7 0 140149 0 0
+/wp-includes/js/wp-auth-check.min.js
+0 26 0 21502 0 0
+/wp-content/plugins/wordpress-seo/js/dist/quick-edit-handler-1700.js
+0 6 0 5868 0 0
+/wp-content/plugins/disable-gutenberg/fonts/awesome/fontawesome-webfont.woff2
+0 1 0 77246 0 0
+/wp-content/plugins/wordpress-seo/packages/js/images/Yoast_SEO_Icon.svg
+0 3 0 1847 0 0
+/wp-includes/js/plupload/plupload.min.js
+0 1 0 5678 0 0
+/wp-admin/load-styles.php
+0 27 0 2663369 0 0
+/wp-content/plugins/post-duplicator/assets/js/pd-admin.js
+0 22 0 12303 0 0
+/wp-content/plugins/wordpress-seo/js/dist/api-client-1700.js
+0 1 0 758 0 0
+/wp-includes/js/dist/vendor/moment.min.js
+0 3 0 55911 0 0
+/wp-includes/js/jquery/ui/button.min.js
+0 2 0 3464 0 0
+/wp-includes/js/heartbeat.min.js
+0 26 0 54123 0 0
+/wp-admin/users.php
+0 5 0 55830 0 0
+/wp-content/plugins/wordpress-seo/images/readability-icon.svg
+0 5 0 1910 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 1 0 38983 0 0
+/wp-includes/js/dist/a11y.min.js
+0 18 0 21780 0 0
+/wp-includes/js/zxcvbn.min.js
+0 3 0 1206600 0 0
+/favicon.ico
+0 31 0 1941 0 0
+/wp-content/plugins/wordfence/css/wf-global.1629122067.css
+0 2 0 726 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 1 0 319 0 0
+/wp-includes/js/media-audiovideo.min.js
+0 1 0 3756 0 0
+/wp-content/plugins/wordpress-seo/js/dist/externals/propTypes-1700.js
+0 1 0 916 0 0
+/wp-includes/js/wp-ajax-response.min.js
+0 4 0 4104 0 0
+/.well-known/acme-challenge/fTAPpGd_dZ6r17iYaqnwga9XW7yj_NOgOFctynQhF1o
+0 4 0 1622 0 0
+/wp-content/plugins/wordfence/images/wf-horizontal.svg
+0 1 0 5034 0 0
+/wp-admin/js/theme.min.js
+0 1 0 7414 0 0
+/beheer/
+0 3 0 6827 0 0
+/wp-includes/js/hoverIntent.min.js
+0 21 0 15813 0 0
+/wp-content/plugins/wordpress-seo/js/dist/externals/styleGuide-1700.js
+0 1 0 2485 0 0
+/wp-includes/js/jquery/ui/controlgroup.min.js
+0 2 0 3294 0 0
+/wp-includes/js/dist/vendor/lodash.min.js
+0 3 0 78264 0 0
+/wp-admin/edit.php
+0 12 0 154927 0 0
+/wp-includes/js/jquery/ui/draggable.min.js
+0 2 0 9816 0 0
+/wp-includes/js/jquery/ui/mouse.min.js
+0 6 0 6744 0 0
+/wp-includes/js/wp-sanitize.min.js
+0 11 0 3674 0 0
+/wp-includes/js/media-editor.min.js
+0 1 0 3689 0 0
+/wp-includes/css/dashicons.min.css
+0 5 0 180165 0 0
+/wp-includes/js/customize-base.min.js
+0 1 0 2555 0 0
+/wp-admin/js/inline-edit-post.min.js
+0 8 0 21742 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 1 0 1210 0 0
+/wp-content/plugins/wordpress-seo/images/link-out-icon.svg
+0 6 0 2286 0 0
+/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+0 1 0 598 0 0
+/wp-content/plugins/wordpress-seo/js/dist/admin-global-1700.js
+0 21 0 41949 0 0
+/wp-content/plugins/disable-gutenberg/css/font-icons.css
+0 2 0 970 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 23 0 97750 0 0
+/wp-includes/js/zxcvbn-async.min.js
+0 3 0 930 0 0
+/wp-includes/js/dist/vendor/react.min.js
+0 1 0 4952 0 0
+/wp-content/plugins/wordfence/js/wfdashboard.1629122067.js
+0 2 0 504 0 0
+/wp-admin/upgrade.php
+0 2 0 1195 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 20 0 139255 0 0
+/wp-admin/tools.php
+0 2 0 14362 0 0
+/wp-includes/js/jquery/ui/resizable.min.js
+0 2 0 10666 0 0
+/wp-includes/js/wp-util.min.js
+0 14 0 10626 0 0
+/wp-includes/js/dist/vendor/react-dom.min.js
+0 1 0 38165 0 0
+/wp-includes/js/media-models.min.js
+0 1 0 4518 0 0
+/wp-admin/js/updates.min.js
+0 11 0 99664 0 0
+/wp-includes/js/dist/hooks.min.js
+0 23 0 42610 0 0
+/wp-admin/css/login.min.css
+0 3 0 6333 0 0
+/wp-admin/js/site-health.min.js
+0 3 0 6600 0 0
+/wp-admin/js/edit-comments.min.js
+0 3 0 15507 0 0
+/wp-includes/js/backbone.min.js
+0 3 0 23948 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 1 0 3781 0 0
+/wp-content/plugins/wordfence/css/wf-adminbar.1629122067.css
+0 2 0 11302 0 0
+/wp-admin/js/media.min.js
+0 1 0 951 0 0
+/wp-admin/js/tags-suggest.min.js
+0 8 0 9008 0 0
+/wp-includes/js/wp-embed.min.js
+0 5 0 4270 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 30 0 150309 0 0
+/wp-admin/js/postbox.min.js
+0 3 0 6864 0 0
+/wp-includes/js/wp-pointer.min.js
+0 2 0 2778 0 0
+/wp-includes/js/wp-backbone.min.js
+0 2 0 2460 0 0
+/wp-includes/js/wp-api.min.js
+0 1 0 4211 0 0
+/wp-content/themes/twentytwentyone/screenshot.png
+0 1 0 285000 0 0
+/wp-includes/js/dist/element.min.js
+0 1 0 3563 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 1 0 529 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 11 0 153827 0 0
+/wp-includes/js/quicktags.min.js
+0 3 0 10746 0 0
+/wp-includes/js/dist/dom-ready.min.js
+0 18 0 11844 0 0
+/wp-includes/js/hoverintent-js.min.js
+0 26 0 20072 0 0
+/wp-includes/js/api-request.min.js
+0 4 0 2572 0 0
+/wp-admin/images/wordpress-logo.svg
+0 5 0 4407 0 0
+/wp-includes/js/dist/url.min.js
+0 3 0 6156 0 0
+/wp-admin/js/user-profile.min.js
+0 3 0 7047 0 0
+/wp-content/plugins/wordpress-seo/css/dist/wpseo-dismissible-1700.css
+0 21 0 8950 0 0
+/wp-content/plugins/wordpress-seo/css/dist/admin-global-1700.css
+0 21 0 112115 0 0
+/wp-includes/js/media-grid.min.js
+0 1 0 4268 0 0
+/wp-admin/js/media-upload.min.js
+0 3 0 1995 0 0
+/wp-includes/js/jquery/jquery.min.js
+0 23 0 717075 0 0
+/wp-includes/js/wplink.min.js
+0 1 0 3939 0 0
+/wp-includes/js/utils.min.js
+0 21 0 18522 0 0
+/
+0 9 0 36831 11 2
+/wp-json/yoast/v1/statistics
+0 1 0 526 0 0
+/wp-content/plugins/wordfence/css/wordfenceBox.1629122067.css
+0 2 0 3792 0 0
+/wp-content/plugins/wordfence/js/wfglobal.1629122067.js
+0 2 0 21208 0 0
+/wp-admin/js/svg-painter.js
+0 26 0 56905 0 0
+/wp-content/plugins/wordpress-seo/js/dist/externals/componentsNew-1700.js
+0 1 0 42736 0 0
+/wp-admin/images/spinner-2x.gif
+0 9 0 68715 0 0
+/wp-content/plugins/wordfence/images/wordfence-logo.svg
+0 2 0 2486 0 0
+/wp-admin/options-general.php
+0 2 0 22179 0 0
+/wp-includes/js/admin-bar.min.js
+0 26 0 37795 0 0
+/wp-content/plugins/wordpress-seo/images/Yoast_SEO_negative_icon.svg
+0 5 0 1852 0 0
+/wp-includes/js/jquery/jquery.color.min.js
+0 3 0 12012 0 0
+/wp-content/plugins/wordpress-seo/css/dist/dashboard-1700.css
+0 1 0 610 0 0
+/.well-known/acme-challenge/letsencrypt_1630565850_7026cb9a24e34717
+0 1 0 244 0 0
+/wp-admin/js/password-strength-meter.min.js
+0 3 0 2022 0 0
+/wp-includes/js/dist/escape-html.min.js
+0 1 0 820 0 0
+/wp-includes/js/plupload/moxie.min.js
+0 1 0 27730 0 0
+/wp-includes/js/jquery/ui/autocomplete.min.js
+0 9 0 26487 0 0
+/wp-includes/js/plupload/wp-plupload.min.js
+0 1 0 2396 0 0
+/wp-admin/user-new.php
+0 1 0 11296 0 0
+/wp-includes/js/mce-view.min.js
+0 1 0 3837 0 0
+/wp-content/plugins/wordfence/js/wfpopover.1629122067.js
+0 2 0 10066 0 0
+/wp-cron.php
+0 4 0 21656 0 0
+/wp-includes/js/jquery/ui/menu.min.js
+0 9 0 26469 0 0
+/wp-includes/js/dist/vendor/regenerator-runtime.min.js
+0 23 0 56594 0 0
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+0 1 0 2664 0 0
+/wp-includes/js/jquery/ui/checkboxradio.min.js
+0 2 0 2942 0 0
+/wp-admin/admin-ajax.php
+0 84 0 70732 0 0
+/wp-includes/js/media-views.min.js
+0 1 0 26936 0 0
+/wp-content/plugins/wordpress-seo/js/dist/externals/analysisReport-1700.js
+0 1 0 3370 0 0
+/wp-admin/js/image-edit.min.js
+0 1 0 3848 0 0
+/wp-content/plugins/wordpress-seo/css/dist/edit-page-1700.css
+0 6 0 1926 0 0
+/wp-content/plugins/wordfence/js/wfi18n.1629122067.js
+0 2 0 4232 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 4 0 42676 0 0
+# End Of Table - urls
+# -sites- (monthly)
+3.19.56.43
+0 1 1 406 0 0
+-
+93.119.227.19
+0 1 0 2861 1 1630578295
+/
+54.68.32.247
+0 2 0 760 0 0
+-
+93.119.227.34
+0 1 0 2861 1 1630621470
+/
+69.4.87.74
+0 1 0 2861 1 1630576589
+/
+54.145.128.194
+0 4 0 12578 2 1630620907
+/
+136.144.182.173
+0 39 14 215220 1 1630575482
+/
+66.133.109.36
+0 1 1 406 0 0
+-
+3.120.130.29
+0 1 1 406 0 0
+-
+69.4.89.106
+0 1 0 2861 1 1630576661
+/
+34.219.87.132
+0 1 1 404 0 0
+-
+93.119.227.91
+0 1 0 2861 1 1630576424
+/
+65.154.226.165
+0 1 0 591 1 1630573260
+/
+195.146.37.241
+0 4 4 22536 1 1630573158
+/
+213.125.116.34
+0 1443 1119 9338245 2 1630576257
+/wp-admin/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+3.19.56.43
+0 1 1 406 0 0
+-
+93.119.227.19
+0 1 0 2861 1 1630578295
+/
+54.68.32.247
+0 2 0 760 0 0
+-
+93.119.227.34
+0 1 0 2861 1 1630621470
+/
+69.4.87.74
+0 1 0 2861 1 1630576589
+/
+54.145.128.194
+0 4 0 12578 2 1630620907
+/
+136.144.182.173
+0 39 14 215220 1 1630575482
+/
+66.133.109.36
+0 1 1 406 0 0
+-
+3.120.130.29
+0 1 1 406 0 0
+-
+69.4.89.106
+0 1 0 2861 1 1630576661
+/
+34.219.87.132
+0 1 1 404 0 0
+-
+93.119.227.91
+0 1 0 2861 1 1630576424
+/
+65.154.226.165
+0 1 0 591 1 1630573260
+/
+195.146.37.241
+0 4 4 22536 1 1630573158
+/
+213.125.116.34
+0 1443 1119 9338245 2 1630576257
+/wp-admin/
+# End Of Table - sites (daily)
+# -referrers- 
+https://zorgdossier.haveabyte.dev/wp-admin/index.php
+0 31
+https://zorgdossier.haveabyte.dev/wp-admin/upgrade.php
+0 16
+https://zorgdossier.haveabyte.dev/wp-admin/tools.php
+0 9
+https://zorgdossier.haveabyte.dev/beheer
+0 4
+https://zorgdossier.haveabyte.dev/
+0 15
+https://zorgdossier.haveabyte.dev/wp-admin/
+0 134
+https://zorgdossier.haveabyte.dev/wp-cron.php
+0 28
+https://zorgdossier.haveabyte.dev/wp-admin/load-styles.php
+0 11
+https://zorgdossier.haveabyte.dev/wp-content/plugins/wordpress-seo/css/dist/admin-global-1700.css
+0 22
+https://zorgdossier.haveabyte.dev/wp-content/plugins/disable-gutenberg/css/font-icons.css
+0 1
+- (Direct Request)
+0 272
+https://zorgdossier.haveabyte.dev/404/
+0 5
+https://zorgdossier.haveabyte.dev/wp-admin/edit.php
+0 257
+https://zorgdossier.haveabyte.dev/wp-admin/admin-ajax.php
+0 5
+https://zorgdossier.haveabyte.dev/wp-content/plugins/wordpress-seo/css/dist/dashboard-1700.css
+0 1
+https://zorgdossier.haveabyte.dev/wp-admin/install.php
+0 6
+https://zorgdossier.haveabyte.dev/wp-admin/themes.php
+0 12
+https://zorgdossier.haveabyte.dev/wp-admin/user-new.php
+0 31
+https://zorgdossier.haveabyte.dev/wp-admin/css/install.min.css
+0 2
+https://zorgdossier.haveabyte.dev/wp-admin/options-general.php
+0 71
+https://zorgdossier.haveabyte.dev/wp-admin/css/login.min.css
+0 3
+https://zorgdossier.haveabyte.dev/beheer/
+0 51
+https://zorgdossier.haveabyte.dev/wp-admin/plugins.php
+0 304
+https://zorgdossier.haveabyte.dev/wp-admin/upload.php
+0 77
+https://zorgdossier.haveabyte.dev/wp-admin
+0 1
+https://zorgdossier.haveabyte.dev/wp-admin/users.php
+0 130
+https://zorgdossier.haveabyte.dev/wp-admin/update-core.php
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 4
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 1
+curl/7.68.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:92.0) Gecko/20100101 Firefox/92.0
+0 1255
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 5
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Sa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+0 188
+WordPress/5.8; https://zorgdossier.haveabyte.dev
+0 38
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

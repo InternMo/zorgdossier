@@ -7,6 +7,7 @@ if ($mysqli->connect_error) {
 else {
 	echo "Successfully connected to database";
 	echo "Push test successfull";
+	echo "Testing testing testing";
 }
 
 ?>

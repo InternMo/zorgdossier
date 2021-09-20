@@ -10,10 +10,10 @@ class Database {
         return $connection;
     }
 
-    public function saveRecords($n, $m, $e) {
+    public function saveRecords($user_id, $activity, $date) {
 
         $conn=$this->connect();
-        mysqli_query($conn,"INSERT INTO ".$this->tbname."(user_id,activity,date) VALUES('$n', '$m', '$e')") or die(mysqli_error($conn));
+        mysqli_query($conn,"INSERT INTO ".$this->tbname."(user_id,activity,date) VALUES('$user_id', '$activity', '$date')") or die(mysqli_error($conn));
         echo "<div style='padding:20px; background-color:yellow;'>
         Data added successfully</div>";
 

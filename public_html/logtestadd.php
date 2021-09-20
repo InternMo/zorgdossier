@@ -1,20 +1,19 @@
 <form action="" method="post">
-    User_ID: <input type="text" name="nm"/><br>
-    Comment: <input type="text" name="mo"/><br>
-    Date: <input type="text" name="em"/><br>
-    <input type="submit" name="sb"/>
+    User_ID: <input type="text" name="user_id"/><br>
+    Activity: <input type="text" name="activity"/><br>
+    <input type="submit" name="submit_log"/>
 
 </form>
 
 <?php
-if (isset($_POST['sb'])) {
+if (isset($_POST['submit_log'])) {
     include "logtest.php";
-    $nm = $_POST['nm'];
-    $mo = $_POST['mo'];
-    $em = $_POST['em'];
+    $user_id = $_POST['user_id'];
+    $activity = $_POST['activity'];
+    $date = date('Y-m-d G:i:s');
 
     $obj = new Database();
-    $obj->saveRecords($nm,$mo,$em);
+    $obj->saveRecords($user_id,$activity,$date);
 
 }
 

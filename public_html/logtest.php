@@ -2,7 +2,7 @@
 
 class Database {
 
-    var $tbname = mo_test_db;
+    var $tbname = 'mo_test_db';
 
 
     public function connect() {

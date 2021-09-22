@@ -48,7 +48,7 @@ class Log {
         $values = implode(", ", $escaped_values);
 
         $wpdb->query( $wpdb->prepare("INSERT INTO `.$this->table.` ($columns) VALUES($values)"));
-        echo "Data added"
+        echo "Data added";
 
         //$wpdb->query( $wpdb->prepare('INSERT INTO xxx (a,b,c) value(%s, %s, %d)', ['a','b',1]));
 
